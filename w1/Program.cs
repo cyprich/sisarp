@@ -1,9 +1,12 @@
-﻿public class Program
+﻿using System.IO;
+
+public class Program
 {
     public static void Main()
     {
+        ShowFiles();
         /*Cviko();*/
-        Uloha1_2();
+        /*Uloha1_2();*/
     }
 
     public static void Cviko()
@@ -71,6 +74,18 @@
 
         var endTime = DateTime.Now;
         Console.WriteLine($"\nCelkovy cas hrania v sekundach: {(endTime - startTime).TotalSeconds} \nPocet pokusov: {momentalnePokusy}");
+    }
+
+    public static void ShowFiles()
+    {
+        FileInfo[] files = new DirectoryInfo(Directory.GetCurrentDirectory()).GetFiles();
+        foreach (FileInfo file in files)
+        {
+            Console.WriteLine(file.Name);
+            Console.WriteLine($"Velkost: {file.Length} bajtov");
+            Console.WriteLine($"Dátum úprav: {file.LastWriteTime}");
+            Console.WriteLine();
+        }
     }
 
     public static void Uloha1_1() { }
