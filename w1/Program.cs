@@ -4,9 +4,12 @@ public class Program
 {
     public static void Main()
     {
-        ShowFiles();
         /*Cviko();*/
+        /*Uloha1_1();*/
         /*Uloha1_2();*/
+        /*Uloha1_3();*/
+        /*Uloha2();*/
+        Uloha3();
     }
 
     public static void Cviko()
@@ -76,19 +79,17 @@ public class Program
         Console.WriteLine($"\nCelkovy cas hrania v sekundach: {(endTime - startTime).TotalSeconds} \nPocet pokusov: {momentalnePokusy}");
     }
 
-    public static void ShowFiles()
+    public static void Uloha1_1()
     {
-        FileInfo[] files = new DirectoryInfo(Directory.GetCurrentDirectory()).GetFiles();
-        foreach (FileInfo file in files)
-        {
-            Console.WriteLine(file.Name);
-            Console.WriteLine($"Velkost: {file.Length} bajtov");
-            Console.WriteLine($"Dátum úprav: {file.LastWriteTime}");
-            Console.WriteLine();
-        }
-    }
+        string firstName = "Peter";
+        string lastName = "Novak";
+        int age = 21;
+        string subject = "C# a .NET";
+        float points = 12.34567f;
 
-    public static void Uloha1_1() { }
+        Console.WriteLine($"{"Meno a Priezvisko",-20} {"Vek",-5} {"Predmet",-20} Pocet bodov");
+        Console.WriteLine($"{(firstName + " " + lastName),-20} {age,-5} {subject,-20} {points:F2}");
+    }
 
     public static void Uloha1_2()
     {
@@ -103,6 +104,49 @@ public class Program
                 Console.Write("*");
             }
             Console.Write("\n");
+        }
+    }
+
+    public static void Uloha1_3()
+    {
+        FileInfo[] files = new DirectoryInfo(Directory.GetCurrentDirectory()).GetFiles();
+        /*foreach (FileInfo file in files)*/
+        /*{*/
+        /*    Console.WriteLine(file.Name);*/
+        /*    Console.WriteLine($"Velkost: {file.Length} bajtov");*/
+        /*    Console.WriteLine($"Dátum úprav: {file.LastWriteTime}");*/
+        /*    Console.WriteLine();*/
+        /*}*/
+
+        Console.WriteLine($"{"Date",-32} | {"Size",-10} | Name");
+        Console.WriteLine($"{new string('-', 64)}");
+        foreach (FileInfo file in files)
+        {
+            System.Console.WriteLine($"{file.LastWriteTime,-32} | {file.Length,-10} | {file.Name}");
+        }
+    }
+
+    public static void Uloha2()
+    {
+        for (int n = 32; n <= 126; n++)
+        {
+            var b = Convert.ToInt32(Convert.ToString(n, 2));
+            var o = Convert.ToInt32(Convert.ToString(n, 8));
+
+            System.Console.WriteLine($"{n,3} {b,7} {o,3} 0x{n:X} {(char)n}");
+        }
+    }
+
+    public static void Uloha3()
+    {
+        var today = DateTime.Today;
+        var daysOfWeek = Enum.GetValues<DayOfWeek>();
+
+        System.Console.WriteLine($"{today:MMMM} {today:yyyy}");
+
+        foreach (var d in daysOfWeek)
+        {
+            /*System.Console.Write($"{d:ddd} ");*/
         }
     }
 }
