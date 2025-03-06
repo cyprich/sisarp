@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RotatingNews": {
+      "commandName": "Project",
+      "commandLineArguments": [
+        "Toto je moja uzasna rotujuca sprava",
+        3,
+        "green"
+      ]
+    }
+  }
+}
