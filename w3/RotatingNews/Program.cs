@@ -24,6 +24,11 @@ class Program
 
             while (true)
             {
+                if (Console.KeyAvailable)
+                {
+                    break;
+                }
+
                 Console.CursorLeft = index;
                 Console.CursorTop = row;
 
@@ -35,7 +40,7 @@ class Program
                     index = Console.WindowWidth - 1;
                 }
 
-                Thread.Sleep(200);
+                Thread.Sleep(50);
                 /*await Task.Delay(1000);*/
                 Console.Clear();
             }
