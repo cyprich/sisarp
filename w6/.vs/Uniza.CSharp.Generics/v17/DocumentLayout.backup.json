@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CB67F5-3901-4634-8BF9-BB2D05ACF54C}|Uniza.CSharp.Generics.App\\Uniza.CSharp.Generics.App.csproj|c:\\users\\cypoo\\programming\\csharp\\w6\\uniza.csharp.generics.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CB67F5-3901-4634-8BF9-BB2D05ACF54C}|Uniza.CSharp.Generics.App\\Uniza.CSharp.Generics.App.csproj|solutionrelative:uniza.csharp.generics.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|c:\\users\\cypoo\\programming\\csharp\\w6\\uniza.csharp.generics\\datastructures\\genericdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|solutionrelative:uniza.csharp.generics\\datastructures\\genericdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|c:\\users\\cypoo\\programming\\csharp\\w6\\uniza.csharp.generics\\datastructures\\genericdoublylinkednode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|solutionrelative:uniza.csharp.generics\\datastructures\\genericdoublylinkednode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|c:\\users\\cypoo\\programming\\csharp\\w6\\uniza.csharp.generics\\datastructures\\doublylinkednode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|solutionrelative:uniza.csharp.generics\\datastructures\\doublylinkednode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|c:\\users\\cypoo\\programming\\csharp\\w6\\uniza.csharp.generics\\datastructures\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|solutionrelative:uniza.csharp.generics\\datastructures\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|c:\\users\\cypoo\\programming\\csharp\\w6\\uniza.csharp.generics\\tools\\swapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405DC2AD-67D6-49C0-9723-73D652D2DF3C}|Uniza.CSharp.Generics\\Uniza.CSharp.Generics.csproj|solutionrelative:uniza.csharp.generics\\tools\\swapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics.App\\Program.cs",
+              "RelativeDocumentMoniker": "Uniza.CSharp.Generics.App\\Program.cs",
+              "ToolTip": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics.App\\Program.cs*",
+              "RelativeToolTip": "Uniza.CSharp.Generics.App\\Program.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:04:54.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericDoublyLinkedNode.cs",
+              "DocumentMoniker": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedNode.cs",
+              "RelativeDocumentMoniker": "Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedNode.cs",
+              "ToolTip": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedNode.cs",
+              "RelativeToolTip": "Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedNode.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:21:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericDoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedList.cs",
+              "RelativeToolTip": "Uniza.CSharp.Generics\\DataStructures\\GenericDoublyLinkedList.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAkwLcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:19:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoublyLinkedNode.cs",
+              "DocumentMoniker": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedNode.cs",
+              "RelativeDocumentMoniker": "Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedNode.cs",
+              "ToolTip": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedNode.cs",
+              "RelativeToolTip": "Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedNode.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:11:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedList.cs",
+              "RelativeToolTip": "Uniza.CSharp.Generics\\DataStructures\\DoublyLinkedList.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAswJ8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:10:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Swapper.cs",
+              "DocumentMoniker": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\Tools\\Swapper.cs",
+              "RelativeDocumentMoniker": "Uniza.CSharp.Generics\\Tools\\Swapper.cs",
+              "ToolTip": "C:\\Users\\cypoo\\Programming\\CSharp\\w6\\Uniza.CSharp.Generics\\Tools\\Swapper.cs",
+              "RelativeToolTip": "Uniza.CSharp.Generics\\Tools\\Swapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:04:09.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
