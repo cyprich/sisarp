@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\C#\\repo\\w9\\Uloha02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E537C872-D19D-4FF7-9C41-44908FCFA5A1}|UnizaAddressBook.ViewerWpfApp\\UnizaAddressBook.ViewerWpfApp.csproj|d:\\school\\c#\\repo\\w9\\uloha02\\unizaaddressbook.viewerwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E537C872-D19D-4FF7-9C41-44908FCFA5A1}|UnizaAddressBook.ViewerWpfApp\\UnizaAddressBook.ViewerWpfApp.csproj|solutionrelative:unizaaddressbook.viewerwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E537C872-D19D-4FF7-9C41-44908FCFA5A1}|UnizaAddressBook.ViewerWpfApp\\UnizaAddressBook.ViewerWpfApp.csproj|d:\\school\\c#\\repo\\w9\\uloha02\\unizaaddressbook.viewerwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E537C872-D19D-4FF7-9C41-44908FCFA5A1}|UnizaAddressBook.ViewerWpfApp\\UnizaAddressBook.ViewerWpfApp.csproj|solutionrelative:unizaaddressbook.viewerwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F388B-1DF6-467E-A675-03C7A88473CE}|UnizaAddressBook.CommonLibrary\\UnizaAddressBook.CommonLibrary.csproj|d:\\school\\c#\\repo\\w9\\uloha02\\unizaaddressbook.commonlibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F388B-1DF6-467E-A675-03C7A88473CE}|UnizaAddressBook.CommonLibrary\\UnizaAddressBook.CommonLibrary.csproj|solutionrelative:unizaaddressbook.commonlibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\School\\C#\\repo\\w9\\Uloha02\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w9\\Uloha02\\UnizaAddressBook.ViewerWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UnizaAddressBook.ViewerWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\School\\C#\\repo\\w9\\Uloha02\\UnizaAddressBook.ViewerWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UnizaAddressBook.ViewerWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:05:58.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w9\\Uloha02\\UnizaAddressBook.ViewerWpfApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UnizaAddressBook.ViewerWpfApp\\App.xaml.cs",
+              "ToolTip": "D:\\School\\C#\\repo\\w9\\Uloha02\\UnizaAddressBook.ViewerWpfApp\\App.xaml.cs",
+              "RelativeToolTip": "UnizaAddressBook.ViewerWpfApp\\App.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:09:06.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w9\\Uloha02\\UnizaAddressBook.CommonLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "UnizaAddressBook.CommonLibrary\\Employee.cs",
+              "ToolTip": "D:\\School\\C#\\repo\\w9\\Uloha02\\UnizaAddressBook.CommonLibrary\\Employee.cs",
+              "RelativeToolTip": "UnizaAddressBook.CommonLibrary\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:05:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employees.json",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w9\\Uloha02\\employees.json",
+              "RelativeDocumentMoniker": "employees.json",
+              "ToolTip": "D:\\School\\C#\\repo\\w9\\Uloha02\\employees.json",
+              "RelativeToolTip": "employees.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T13:04:22.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

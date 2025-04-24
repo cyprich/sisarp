@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\C#\\repo\\w10\\asynclab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779F1A2B-FFF5-4B22-A5AB-15D71237237B}|AsyncWpfApp\\AsyncWpfApp.csproj|d:\\school\\c#\\repo\\w10\\asynclab\\asyncwpfapp\\mandelbrotwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779F1A2B-FFF5-4B22-A5AB-15D71237237B}|AsyncWpfApp\\AsyncWpfApp.csproj|solutionrelative:asyncwpfapp\\mandelbrotwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F1A2B-FFF5-4B22-A5AB-15D71237237B}|AsyncWpfApp\\AsyncWpfApp.csproj|d:\\school\\c#\\repo\\w10\\asynclab\\asyncwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{779F1A2B-FFF5-4B22-A5AB-15D71237237B}|AsyncWpfApp\\AsyncWpfApp.csproj|solutionrelative:asyncwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F1A2B-FFF5-4B22-A5AB-15D71237237B}|AsyncWpfApp\\AsyncWpfApp.csproj|d:\\school\\c#\\repo\\w10\\asynclab\\asyncwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{779F1A2B-FFF5-4B22-A5AB-15D71237237B}|AsyncWpfApp\\AsyncWpfApp.csproj|solutionrelative:asyncwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MandelbrotWindow.xaml.cs",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w10\\asynclab\\AsyncWpfApp\\MandelbrotWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncWpfApp\\MandelbrotWindow.xaml.cs",
+              "ToolTip": "D:\\School\\C#\\repo\\w10\\asynclab\\AsyncWpfApp\\MandelbrotWindow.xaml.cs*",
+              "RelativeToolTip": "AsyncWpfApp\\MandelbrotWindow.xaml.cs*",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswJUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:51:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w10\\asynclab\\AsyncWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsyncWpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\School\\C#\\repo\\w10\\asynclab\\AsyncWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "AsyncWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T12:51:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\School\\C#\\repo\\w10\\asynclab\\AsyncWpfApp\\App.xaml",
+              "RelativeDocumentMoniker": "AsyncWpfApp\\App.xaml",
+              "ToolTip": "D:\\School\\C#\\repo\\w10\\asynclab\\AsyncWpfApp\\App.xaml",
+              "RelativeToolTip": "AsyncWpfApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T12:51:33.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

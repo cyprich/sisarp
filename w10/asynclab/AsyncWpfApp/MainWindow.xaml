@@ -1,0 +1,18 @@
+﻿<Window x:Class="AsyncWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <Button Name="btnAsync" Content="Načítať HTML (await)" Margin="0,5" Click="BtnAsync_Click"/>
+        <Button Name="btnBlocking" Content="Načítať (blokovane)" Margin="0,5" Click="BtnBlocking_Click"/>
+        <Button Name="btnCancel" Content="Zrušiť načítanie" Margin="0,5" Click="BtnCancel_Click"/>
+        <TextBlock Name="txtStatus" Margin="0,10" Text="Stav: Čakám na používateľa" />
+        <TextBlock Name="txtResult" Text="Výsledok: 0 znakov" />
+
+        <Button Content="Mandelbrot" Margin="0,5" Click="MandelbrotButton_Click"/>
+    </StackPanel>
+</Window>
